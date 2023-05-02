@@ -37,4 +37,4 @@ If you find our work useful for your research, please cite with the following bi
 ```
 
 ## Questions
-Please feel free to contract "rzwang@xjtu.edu.cn".
+Please feel free to contact "rzwang@xjtu.edu.cn".
