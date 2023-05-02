@@ -20,4 +20,4 @@
 # python train_fix_l2ac.py --gpu 0 --dataset stl10 --num_max 450 --imb_ratio_l 10 --epoch 500 --val-iteration 500 --out result/stl10@N_450_r_10_l2ac  --workers 0
 
 # Run train_fix_l2ac.py on sTL-100 under gamma_l=20
-# python train_fix_l2ac_3rd.py --gpu 0 --dataset stl10 --num_max 450 --imb_ratio_l 20  --epoch 500 --val-iteration 500 --out result/stl10@N_450_r_20_l2ac  --workers 0
+# python train_fix_l2ac.py --gpu 0 --dataset stl10 --num_max 450 --imb_ratio_l 20  --epoch 500 --val-iteration 500 --out result/stl10@N_450_r_20_l2ac  --workers 0
